@@ -6,7 +6,6 @@ class PinsController < ApplicationController
     @pins = Pin.all
   end
 
- 
   def show
   end
 
